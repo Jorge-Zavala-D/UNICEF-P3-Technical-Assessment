@@ -19,7 +19,7 @@ This repository contains all the code, data, and outputs associated with the UNI
   - `3 Coded/`: Folder with final datasets for analysis used in Task 1 and Task 2.
 
 - **2 Code/**: Contains all Stata scripts necessary for data cleaning, analysis, and visualization.
-  - `0 Master Code_UNICEF P3 Technical Assessment.do`: Master .do file that sets all relevant file paths and runs all data preparation, visualization and analysis codes to replicate the process of Task 1 and Task 2
+  - `0 Master Code_UNICEF P3 Technical Assessment.do`: Master .do file that sets all relevant file paths and runs all data preparation, visualization and analysis codes to replicate the process of Task 1 and Task 2. To run all the code, please follow the initial instructions on the Master .do to set up the file path for the cloned repository.
   - `1a Data Preparation_UNICEF P3 Technical Assessment_Task 1.do`: Script to clean and prepare the raw data for Task 1.
   - `1b Data Visualization_UNICEF P3 Technical Assessment_Task 1.do`: Script to conduct the statistical analysis for Task 1.
   - `2a Data Preparation_UNICEF P3 Technical Assessment_Task 2.do`: Script to clean and prepare the raw data for Task 2.

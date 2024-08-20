@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	Educational performance index
+	
+child_age_months	0.00254***
+	(0.000400)
+Constant	0.390***
+	(0.0195)
+	
+Observations	2,490
+R-squared	0.016
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

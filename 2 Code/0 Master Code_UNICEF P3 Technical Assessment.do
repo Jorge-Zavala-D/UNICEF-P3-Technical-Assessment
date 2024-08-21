@@ -35,7 +35,9 @@
 * check what your username is in Stata by typing "di c(username)"
 * Left blank to ensure anonymity
 if "`c(username)'" == ""  {
-	global root ""	}
+	*Add file path of the repository
+	global root ""	
+	}
 
 
 * globals
